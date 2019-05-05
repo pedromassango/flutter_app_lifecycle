@@ -1,6 +1,6 @@
-# app_lifecycle
+# app_lifecycle: onResume() and onPause()
 
-A new Flutter project that show you how to detect the app&#x27;s lifecycle
+A new Flutter project that show you how to detect the app&#x27;s lifecycle: onPause, and onResume
 
 ## Getting Started
 
